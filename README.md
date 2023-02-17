@@ -1,1 +1,1 @@
-my first tp in C:alx programm
+variables_if_else_while:c
